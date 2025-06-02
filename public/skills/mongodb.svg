@@ -1,0 +1,14 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background circle (optional) -->
+  <circle cx="24" cy="24" r="24" fill="#F5F5F5"/>
+  
+  <!-- Main mango shape -->
+  <path d="M24 4C24 4 10 20 24 44C38 20 24 4 24 4Z" fill="#47A248" fill-opacity="0.9"/>
+  
+  <!-- Center line -->
+  <path d="M24 10V38" stroke="white" stroke-width="2" stroke-linecap="round" stroke-opacity="0.8"/>
+  
+  <!-- Optional decorative elements -->
+  <circle cx="24" cy="24" r="2" fill="white"/>
+  <path d="M18 15L24 10L30 15" stroke="white" stroke-width="1" fill="none"/>
+</svg>

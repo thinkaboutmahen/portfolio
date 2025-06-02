@@ -1,0 +1,6 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Api utama -->
+  <path d="M24 6C28 16 16 20 24 38C32 20 20 16 24 6Z" fill="#EF4423"/>
+  <!-- Highlight/lapisan dalam -->
+  <path d="M24 18C26 22 20 24 24 32C28 24 22 22 24 18Z" fill="#fff" fill-opacity="0.3"/>
+</svg>
